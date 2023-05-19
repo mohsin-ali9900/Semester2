@@ -1,0 +1,8 @@
+E:\semester 2\oops\lab1\ooplab5\lastTask\degreeProgramms\degreeProgramms\bin\Debug\degreeProgramms.exe.config
+E:\semester 2\oops\lab1\ooplab5\lastTask\degreeProgramms\degreeProgramms\bin\Debug\degreeProgramms.exe
+E:\semester 2\oops\lab1\ooplab5\lastTask\degreeProgramms\degreeProgramms\bin\Debug\degreeProgramms.pdb
+E:\semester 2\oops\lab1\ooplab5\lastTask\degreeProgramms\degreeProgramms\obj\Debug\degreeProgramms.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\ooplab5\lastTask\degreeProgramms\degreeProgramms\obj\Debug\degreeProgramms.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\ooplab5\lastTask\degreeProgramms\degreeProgramms\obj\Debug\degreeProgramms.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\ooplab5\lastTask\degreeProgramms\degreeProgramms\obj\Debug\degreeProgramms.exe
+E:\semester 2\oops\lab1\ooplab5\lastTask\degreeProgramms\degreeProgramms\obj\Debug\degreeProgramms.pdb
