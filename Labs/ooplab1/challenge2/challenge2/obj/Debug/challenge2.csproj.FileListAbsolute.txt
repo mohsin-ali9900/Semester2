@@ -1,0 +1,8 @@
+E:\oops\lab1\challenge2\challenge2\obj\Debug\challenge2.csproj.AssemblyReference.cache
+E:\oops\lab1\challenge2\challenge2\obj\Debug\challenge2.csproj.SuggestedBindingRedirects.cache
+E:\oops\lab1\challenge2\challenge2\obj\Debug\challenge2.csproj.CoreCompileInputs.cache
+E:\oops\lab1\challenge2\challenge2\bin\Debug\challenge2.exe.config
+E:\oops\lab1\challenge2\challenge2\bin\Debug\challenge2.exe
+E:\oops\lab1\challenge2\challenge2\bin\Debug\challenge2.pdb
+E:\oops\lab1\challenge2\challenge2\obj\Debug\challenge2.exe
+E:\oops\lab1\challenge2\challenge2\obj\Debug\challenge2.pdb
