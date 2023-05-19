@@ -1,0 +1,8 @@
+E:\oops\lab1\pdweek1\pdweek1\bin\Debug\pdweek1.exe.config
+E:\oops\lab1\pdweek1\pdweek1\bin\Debug\pdweek1.exe
+E:\oops\lab1\pdweek1\pdweek1\bin\Debug\pdweek1.pdb
+E:\oops\lab1\pdweek1\pdweek1\obj\Debug\pdweek1.csproj.AssemblyReference.cache
+E:\oops\lab1\pdweek1\pdweek1\obj\Debug\pdweek1.csproj.SuggestedBindingRedirects.cache
+E:\oops\lab1\pdweek1\pdweek1\obj\Debug\pdweek1.csproj.CoreCompileInputs.cache
+E:\oops\lab1\pdweek1\pdweek1\obj\Debug\pdweek1.exe
+E:\oops\lab1\pdweek1\pdweek1\obj\Debug\pdweek1.pdb
