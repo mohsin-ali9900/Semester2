@@ -1,0 +1,8 @@
+E:\oops\lab1\ooplab2\ooplab2\bin\Debug\ooplab2.exe.config
+E:\oops\lab1\ooplab2\ooplab2\bin\Debug\ooplab2.exe
+E:\oops\lab1\ooplab2\ooplab2\bin\Debug\ooplab2.pdb
+E:\oops\lab1\ooplab2\ooplab2\obj\Debug\ooplab2.csproj.AssemblyReference.cache
+E:\oops\lab1\ooplab2\ooplab2\obj\Debug\ooplab2.csproj.SuggestedBindingRedirects.cache
+E:\oops\lab1\ooplab2\ooplab2\obj\Debug\ooplab2.csproj.CoreCompileInputs.cache
+E:\oops\lab1\ooplab2\ooplab2\obj\Debug\ooplab2.exe
+E:\oops\lab1\ooplab2\ooplab2\obj\Debug\ooplab2.pdb
