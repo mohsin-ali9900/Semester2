@@ -1,0 +1,11 @@
+E:\semester 2\oops\lab1\pdweek3\subway\subway\bin\Debug\subway.exe.config
+E:\semester 2\oops\lab1\pdweek3\subway\subway\bin\Debug\subway.exe
+E:\semester 2\oops\lab1\pdweek3\subway\subway\bin\Debug\subway.pdb
+E:\semester 2\oops\lab1\pdweek3\subway\subway\bin\Debug\EZInput.dll
+E:\semester 2\oops\lab1\pdweek3\subway\subway\bin\Debug\EZInput.xml
+E:\semester 2\oops\lab1\pdweek3\subway\subway\obj\Debug\subway.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\pdweek3\subway\subway\obj\Debug\subway.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\pdweek3\subway\subway\obj\Debug\subway.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\pdweek3\subway\subway\obj\Debug\subway.csproj.CopyComplete
+E:\semester 2\oops\lab1\pdweek3\subway\subway\obj\Debug\subway.exe
+E:\semester 2\oops\lab1\pdweek3\subway\subway\obj\Debug\subway.pdb

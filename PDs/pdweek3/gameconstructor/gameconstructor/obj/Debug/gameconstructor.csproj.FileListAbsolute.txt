@@ -1,0 +1,8 @@
+E:\semester 2\oops\lab1\pdweek3\gameconstructor\gameconstructor\bin\Debug\gameconstructor.exe.config
+E:\semester 2\oops\lab1\pdweek3\gameconstructor\gameconstructor\bin\Debug\gameconstructor.exe
+E:\semester 2\oops\lab1\pdweek3\gameconstructor\gameconstructor\bin\Debug\gameconstructor.pdb
+E:\semester 2\oops\lab1\pdweek3\gameconstructor\gameconstructor\obj\Debug\gameconstructor.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\pdweek3\gameconstructor\gameconstructor\obj\Debug\gameconstructor.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\pdweek3\gameconstructor\gameconstructor\obj\Debug\gameconstructor.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\pdweek3\gameconstructor\gameconstructor\obj\Debug\gameconstructor.exe
+E:\semester 2\oops\lab1\pdweek3\gameconstructor\gameconstructor\obj\Debug\gameconstructor.pdb
