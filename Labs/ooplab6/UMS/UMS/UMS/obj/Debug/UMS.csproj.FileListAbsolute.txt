@@ -1,0 +1,8 @@
+E:\semester 2\oops\lab1\ooplab6\UMS\UMS\UMS\bin\Debug\UMS.exe.config
+E:\semester 2\oops\lab1\ooplab6\UMS\UMS\UMS\bin\Debug\UMS.exe
+E:\semester 2\oops\lab1\ooplab6\UMS\UMS\UMS\bin\Debug\UMS.pdb
+E:\semester 2\oops\lab1\ooplab6\UMS\UMS\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\ooplab6\UMS\UMS\UMS\obj\Debug\UMS.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\ooplab6\UMS\UMS\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\ooplab6\UMS\UMS\UMS\obj\Debug\UMS.exe
+E:\semester 2\oops\lab1\ooplab6\UMS\UMS\UMS\obj\Debug\UMS.pdb

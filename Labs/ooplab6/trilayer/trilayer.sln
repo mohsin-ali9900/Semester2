@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trilayer", "trilayer\trilayer.csproj", "{19497BF6-E8BA-42F5-BB3E-4BD174E86699}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{F069C105-0998-4B1C-8282-C617406BEE13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19497BF6-E8BA-42F5-BB3E-4BD174E86699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19497BF6-E8BA-42F5-BB3E-4BD174E86699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19497BF6-E8BA-42F5-BB3E-4BD174E86699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19497BF6-E8BA-42F5-BB3E-4BD174E86699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8FEFAA-F419-4A54-90BB-BE7BCBD2D988}
+	EndGlobalSection
+EndGlobal
