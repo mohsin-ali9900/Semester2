@@ -1,0 +1,8 @@
+E:\oops\lab1\SignIn\SignIn\obj\Debug\SignIn.csproj.AssemblyReference.cache
+E:\oops\lab1\SignIn\SignIn\obj\Debug\SignIn.csproj.SuggestedBindingRedirects.cache
+E:\oops\lab1\SignIn\SignIn\obj\Debug\SignIn.csproj.CoreCompileInputs.cache
+E:\oops\lab1\SignIn\SignIn\bin\Debug\SignIn.exe.config
+E:\oops\lab1\SignIn\SignIn\bin\Debug\SignIn.exe
+E:\oops\lab1\SignIn\SignIn\bin\Debug\SignIn.pdb
+E:\oops\lab1\SignIn\SignIn\obj\Debug\SignIn.exe
+E:\oops\lab1\SignIn\SignIn\obj\Debug\SignIn.pdb

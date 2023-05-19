@@ -1,0 +1,8 @@
+E:\semester 2\oops\lab1\practice\signupwithdiffrentclasses\signupwithdiffrentclasses\bin\Debug\signupwithdiffrentclasses.exe.config
+E:\semester 2\oops\lab1\practice\signupwithdiffrentclasses\signupwithdiffrentclasses\bin\Debug\signupwithdiffrentclasses.exe
+E:\semester 2\oops\lab1\practice\signupwithdiffrentclasses\signupwithdiffrentclasses\bin\Debug\signupwithdiffrentclasses.pdb
+E:\semester 2\oops\lab1\practice\signupwithdiffrentclasses\signupwithdiffrentclasses\obj\Debug\signupwithdiffrentclasses.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\practice\signupwithdiffrentclasses\signupwithdiffrentclasses\obj\Debug\signupwithdiffrentclasses.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\practice\signupwithdiffrentclasses\signupwithdiffrentclasses\obj\Debug\signupwithdiffrentclasses.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\practice\signupwithdiffrentclasses\signupwithdiffrentclasses\obj\Debug\signupwithdiffrentclasses.exe
+E:\semester 2\oops\lab1\practice\signupwithdiffrentclasses\signupwithdiffrentclasses\obj\Debug\signupwithdiffrentclasses.pdb
