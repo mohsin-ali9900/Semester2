@@ -1,0 +1,8 @@
+E:\semester 2\oops\lab1\pdweek6\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+E:\semester 2\oops\lab1\pdweek6\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+E:\semester 2\oops\lab1\pdweek6\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+E:\semester 2\oops\lab1\pdweek6\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\pdweek6\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\pdweek6\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\pdweek6\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+E:\semester 2\oops\lab1\pdweek6\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb

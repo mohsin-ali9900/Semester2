@@ -1,0 +1,8 @@
+E:\semester 2\oops\lab1\ooplab6\projeactileMotion\projeactileMotion\bin\Debug\projeactileMotion.exe.config
+E:\semester 2\oops\lab1\ooplab6\projeactileMotion\projeactileMotion\bin\Debug\projeactileMotion.exe
+E:\semester 2\oops\lab1\ooplab6\projeactileMotion\projeactileMotion\bin\Debug\projeactileMotion.pdb
+E:\semester 2\oops\lab1\ooplab6\projeactileMotion\projeactileMotion\obj\Debug\projeactileMotion.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\ooplab6\projeactileMotion\projeactileMotion\obj\Debug\projeactileMotion.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\ooplab6\projeactileMotion\projeactileMotion\obj\Debug\projeactileMotion.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\ooplab6\projeactileMotion\projeactileMotion\obj\Debug\projeactileMotion.exe
+E:\semester 2\oops\lab1\ooplab6\projeactileMotion\projeactileMotion\obj\Debug\projeactileMotion.pdb
