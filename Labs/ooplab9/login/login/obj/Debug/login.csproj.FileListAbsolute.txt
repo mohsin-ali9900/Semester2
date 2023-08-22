@@ -1,0 +1,11 @@
+E:\semester 2\oops\lab1\ooplab9\login\login\bin\Debug\login.exe.config
+E:\semester 2\oops\lab1\ooplab9\login\login\bin\Debug\login.exe
+E:\semester 2\oops\lab1\ooplab9\login\login\bin\Debug\login.pdb
+E:\semester 2\oops\lab1\ooplab9\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\ooplab9\login\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\ooplab9\login\login\obj\Debug\login.Form1.resources
+E:\semester 2\oops\lab1\ooplab9\login\login\obj\Debug\login.Properties.Resources.resources
+E:\semester 2\oops\lab1\ooplab9\login\login\obj\Debug\login.csproj.GenerateResource.cache
+E:\semester 2\oops\lab1\ooplab9\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\ooplab9\login\login\obj\Debug\login.exe
+E:\semester 2\oops\lab1\ooplab9\login\login\obj\Debug\login.pdb
