@@ -1,0 +1,14 @@
+E:\semester 2\oops\lab1\ooplab11\g1\g1\bin\Debug\g1.exe.config
+E:\semester 2\oops\lab1\ooplab11\g1\g1\bin\Debug\g1.exe
+E:\semester 2\oops\lab1\ooplab11\g1\g1\bin\Debug\g1.pdb
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.csproj.AssemblyReference.cache
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.csproj.SuggestedBindingRedirects.cache
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.Form1.resources
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.Properties.Resources.resources
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.csproj.GenerateResource.cache
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.csproj.CoreCompileInputs.cache
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.exe
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.pdb
+E:\semester 2\oops\lab1\ooplab11\g1\g1\bin\Debug\EZInput.dll
+E:\semester 2\oops\lab1\ooplab11\g1\g1\bin\Debug\EZInput.xml
+E:\semester 2\oops\lab1\ooplab11\g1\g1\obj\Debug\g1.csproj.CopyComplete
