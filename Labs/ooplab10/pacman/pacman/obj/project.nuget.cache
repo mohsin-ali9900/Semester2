@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBl557N0/9bk276tkovNlcB2wa0ikpXpuo9bTTyZJE7VKrZhv9omcG67mvwhsVaWIn/2DjpsREkLgywsJU4AQg==",
+  "success": true,
+  "projectFilePath": "F:\\OOP Labs\\PacMan\\PacMan\\PacMan\\PacMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nkjm\\.nuget\\packages\\ezinput\\1.3.2\\ezinput.1.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

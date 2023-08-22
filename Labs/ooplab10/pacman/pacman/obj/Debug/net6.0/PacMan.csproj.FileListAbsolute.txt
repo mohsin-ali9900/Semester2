@@ -1,0 +1,17 @@
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.csproj.AssemblyReference.cache
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.AssemblyInfoInputs.cache
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.AssemblyInfo.cs
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.csproj.CoreCompileInputs.cache
+F:\OOP Labs\PacMan\PacMan\PacMan\bin\Debug\net6.0\PacMan.exe
+F:\OOP Labs\PacMan\PacMan\PacMan\bin\Debug\net6.0\PacMan.deps.json
+F:\OOP Labs\PacMan\PacMan\PacMan\bin\Debug\net6.0\PacMan.runtimeconfig.json
+F:\OOP Labs\PacMan\PacMan\PacMan\bin\Debug\net6.0\PacMan.dll
+F:\OOP Labs\PacMan\PacMan\PacMan\bin\Debug\net6.0\PacMan.pdb
+F:\OOP Labs\PacMan\PacMan\PacMan\bin\Debug\net6.0\EZInput.dll
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.csproj.CopyComplete
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.dll
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\refint\PacMan.dll
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.pdb
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\PacMan.genruntimeconfig.cache
+F:\OOP Labs\PacMan\PacMan\PacMan\obj\Debug\net6.0\ref\PacMan.dll
